@@ -14,4 +14,4 @@ Just deploy it wherever you want.
 
 ## Questions
 
-Will not be andwered.
+Will not be answered. It is only a tutorial project.
